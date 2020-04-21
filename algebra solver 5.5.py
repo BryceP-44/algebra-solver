@@ -41,8 +41,8 @@ def callback ():
         #print(left)
         cont = 1
         low=0
-        du=1
-        dj=1
+        du=100
+        dj=100
         guess = 0
         u = guess
         j = guess
