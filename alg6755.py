@@ -14,7 +14,7 @@ def al():
     title = Label(window, text= "Algebra Solver", font=("fixedsys", 33), bg="teal", fg="cyan")
     canvas1.create_window(200, 50, window=title)
 
-    sub = Label(window, text= "Version 6.75 by Bryce Patterson", font=("fixedsys", 10), bg="teal", fg="cyan", justify="center")
+    sub = Label(window, text= "Version 6.755 by Bryce Patterson", font=("fixedsys", 10), bg="teal", fg="cyan", justify="center")
     canvas1.create_window(200, 100, window=sub)
 
     e = Entry (window, text="Algebra equation solver", font=("system", 20), bg="lavender", fg="midnightblue", justify="center") 
